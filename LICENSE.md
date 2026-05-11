@@ -1,4 +1,4 @@
-
+updated Plugin for MindManager for Windows - presentation-mode and mind-map-creation offers the most advanced MindManager for Windows plugin, with presentation-mode and
 
 
 
